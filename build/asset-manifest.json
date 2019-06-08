@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/todo/static/css/main.623ac21f.chunk.css",
+    "main.js": "/todo/static/js/main.194f09c2.chunk.js",
+    "main.js.map": "/todo/static/js/main.194f09c2.chunk.js.map",
+    "runtime~main.js": "/todo/static/js/runtime~main.7a2dc5ec.js",
+    "runtime~main.js.map": "/todo/static/js/runtime~main.7a2dc5ec.js.map",
+    "static/js/2.250409a9.chunk.js": "/todo/static/js/2.250409a9.chunk.js",
+    "static/js/2.250409a9.chunk.js.map": "/todo/static/js/2.250409a9.chunk.js.map",
+    "index.html": "/todo/index.html",
+    "precache-manifest.e01600296b67b710661ad1599d7943a5.js": "/todo/precache-manifest.e01600296b67b710661ad1599d7943a5.js",
+    "service-worker.js": "/todo/service-worker.js",
+    "static/css/main.623ac21f.chunk.css.map": "/todo/static/css/main.623ac21f.chunk.css.map",
+    "static/media/applogo.png": "/todo/static/media/applogo.51b74ca3.png",
+    "static/media/viccleaners-logo.png": "/todo/static/media/viccleaners-logo.487c4f8d.png"
+  }
+}
